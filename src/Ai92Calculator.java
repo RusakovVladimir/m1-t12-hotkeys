@@ -1,4 +1,4 @@
-public class Ai92Calculator {
+public class Ai92Calculator { //класс 92 бензина
     double cena = 42.74;
     double tax = 0.13;
     double fullPrice = cena * (1 + tax);
